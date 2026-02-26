@@ -15,7 +15,7 @@ This project provides a comprehensive analysis of the Netflix library, focusing 
 
 ## How to View
 * **Interactive Dashboard:** [(https://public.tableau.com/views/Book1_17721143980390/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)]
-* **SQL Analysis:** You can find the PostgreSQL queries used in this project here: [netflix_proje.sql](./netflix_proje.sql)
+* **SQL Analysis:** You can find the PostgreSQL queries used in this project here: [netflix_data_analysis.sql](./netflix_data_analysis.sql)
 
 ---
 
